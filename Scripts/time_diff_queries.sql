@@ -13,6 +13,7 @@ CREATE TABLE all_times AS SELECT id_user, id_block,
 ALTER TABLE all_times
 MODIFY COLUMN time_modification TIME;
 
+-- Join date and time columns:
 CREATE TABLE datetimes_all AS SELECT id_user, id_block,
 	CAST(concat(date_modification, ' ', time_modification) as datetime) as date_time
 FROM all_times; 
@@ -107,28 +108,18 @@ GROUP BY id_user;
 -- CALCULATE TIME DIFFERENCE BETWEEN FIRST AND LAST ENTRIES:
 -- PERSONALITY:
 CREATE TABLE personality_time_diff AS
-SELECT id_user, TIMESTAMPDIFF(SECOND, first_entry, last_entry) as sec_difference,
-	CONCAT(FLOOR(TIMESTAMPDIFF(SECOND, first_entry, last_entry) / 86400), ' days ',
-  FLOOR((TIMESTAMPDIFF(SECOND, first_entry, last_entry))/3600), ' hours ',
-  FLOOR((TIMESTAMPDIFF(SECOND, first_entry, last_entry) % 3600)/60), ' minutes ',
-  (TIMESTAMPDIFF(SECOND, first_entry, last_entry) % 60),  ' seconds'
-) as time_difference
+SELECT id_user, TIMESTAMPDIFF(SECOND, first_entry, last_entry) as sec_difference
 FROM A_personality
 ORDER BY sec_difference;
 
 -- VITAL PLAN:
 CREATE TABLE vital_plan_time_diff AS
-SELECT id_user, TIMESTAMPDIFF(SECOND, first_entry, last_entry) as sec_difference, 
-	CONCAT(FLOOR(TIMESTAMPDIFF(SECOND, first_entry, last_entry) / 86400), ' days ',
-  FLOOR((TIMESTAMPDIFF(SECOND, first_entry, last_entry)%86400)/3600), ' hours ',
-  FLOOR((TIMESTAMPDIFF(SECOND, first_entry, last_entry) % 3600)/60), ' minutes ',
-  (TIMESTAMPDIFF(SECOND, first_entry, last_entry) % 60),  ' seconds'
-) as time_difference
+SELECT id_user, TIMESTAMPDIFF(SECOND, first_entry, last_entry) as sec_difference
 FROM A_vital_plan
 ORDER BY sec_difference;
 
 
-
+/*
 -- SHOW LAST 10 LINES OF EACH:
 
 -- PERSONALITY:
@@ -141,3 +132,5 @@ SELECT * FROM (
     SELECT * FROM vital_plan_time_diff ORDER BY sec_difference DESC LIMIT 60
 ) sub
 ORDER BY sec_difference ASC;
+*/
+
