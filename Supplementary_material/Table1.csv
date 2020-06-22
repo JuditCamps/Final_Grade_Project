@@ -1,0 +1,1106 @@
+﻿id_questionnaire;id_block;id_question;Question text;id_answer;Answer text;Scoring
+4;14;4002;I have values that give my life more meaning.;4001;Strongly disagree;1
+4;14;4002;I have values that give my life more meaning.;4002;Disagree;2
+4;14;4002;I have values that give my life more meaning.;4003;Neither agree or disagree;3
+4;14;4002;I have values that give my life more meaning.;4004;Agree;4
+4;14;4002;I have values that give my life more meaning.;4005;Strongly agree;5
+4;14;4003;I know what motivates me in life.;4001;Strongly disagree;1
+4;14;4003;I know what motivates me in life.;4002;Disagree;2
+4;14;4003;I know what motivates me in life.;4003;Neither agree or disagree;3
+4;14;4003;I know what motivates me in life.;4004;Agree;4
+4;14;4003;I know what motivates me in life.;4005;Strongly agree;5
+4;14;4004;I believe that I’ve found important values to live according to.;4001;Strongly disagree;1
+4;14;4004;I believe that I’ve found important values to live according to.;4002;Disagree;2
+4;14;4004;I believe that I’ve found important values to live according to.;4003;Neither agree or disagree;3
+4;14;4004;I believe that I’ve found important values to live according to.;4004;Agree;4
+4;14;4004;I believe that I’ve found important values to live according to.;4005;Strongly agree;5
+4;14;4005;I know exactly what I want to do with my life.;4001;Strongly disagree;1
+4;14;4005;I know exactly what I want to do with my life.;4002;Disagree;2
+4;14;4005;I know exactly what I want to do with my life.;4003;Neither agree or disagree;3
+4;14;4005;I know exactly what I want to do with my life.;4004;Agree;4
+4;14;4005;I know exactly what I want to do with my life.;4005;Strongly agree;5
+4;14;4006;I make choices based on my values, even if it is stressful.;4001;Strongly disagree;1
+4;14;4006;I make choices based on my values, even if it is stressful.;4002;Disagree;2
+4;14;4006;I make choices based on my values, even if it is stressful.;4003;Neither agree or disagree;3
+4;14;4006;I make choices based on my values, even if it is stressful.;4004;Agree;4
+4;14;4006;I make choices based on my values, even if it is stressful.;4005;Strongly agree;5
+4;14;4007;I know how I want to live my life.;4001;Strongly disagree;1
+4;14;4007;I know how I want to live my life.;4002;Disagree;2
+4;14;4007;I know how I want to live my life.;4003;Neither agree or disagree;3
+4;14;4007;I know how I want to live my life.;4004;Agree;4
+4;14;4007;I know how I want to live my life.;4005;Strongly agree;5
+4;14;4008;I know what I want to do with my life.;4001;Strongly disagree;1
+4;14;4008;I know what I want to do with my life.;4002;Disagree;2
+4;14;4008;I know what I want to do with my life.;4003;Neither agree or disagree;3
+4;14;4008;I know what I want to do with my life.;4004;Agree;4
+4;14;4008;I know what I want to do with my life.;4005;Strongly agree;5
+4;14;4009;I believe that my values are really reflected in my behaviour.;4001;Strongly disagree;1
+4;14;4009;I believe that my values are really reflected in my behaviour.;4002;Disagree;2
+4;14;4009;I believe that my values are really reflected in my behaviour.;4003;Neither agree or disagree;3
+4;14;4009;I believe that my values are really reflected in my behaviour.;4004;Agree;4
+4;14;4009;I believe that my values are really reflected in my behaviour.;4005;Strongly agree;5
+4;14;4010;I believe that how I behave fits in with my personal wants and desires.;4001;Strongly disagree;1
+4;14;4010;I believe that how I behave fits in with my personal wants and desires.;4002;Disagree;2
+4;14;4010;I believe that how I behave fits in with my personal wants and desires.;4003;Neither agree or disagree;3
+4;14;4010;I believe that how I behave fits in with my personal wants and desires.;4004;Agree;4
+4;14;4010;I believe that how I behave fits in with my personal wants and desires.;4005;Strongly agree;5
+4;14;4011;My emotions don’t hold me back from doing what’s important to me.;4001;Strongly disagree;1
+4;14;4011;My emotions don’t hold me back from doing what’s important to me.;4002;Disagree;2
+4;14;4011;My emotions don’t hold me back from doing what’s important to me.;4003;Neither agree or disagree;3
+4;14;4011;My emotions don’t hold me back from doing what’s important to me.;4004;Agree;4
+4;14;4011;My emotions don’t hold me back from doing what’s important to me.;4005;Strongly agree;5
+4;14;4012;I live the way I always intended to live.;4001;Strongly disagree;1
+4;14;4012;I live the way I always intended to live.;4002;Disagree;2
+4;14;4012;I live the way I always intended to live.;4003;Neither agree or disagree;3
+4;14;4012;I live the way I always intended to live.;4004;Agree;4
+4;14;4012;I live the way I always intended to live.;4005;Strongly agree;5
+4;14;4013;I am satisfied with how I live my life.;4001;Strongly disagree;1
+4;14;4013;I am satisfied with how I live my life.;4002;Disagree;2
+4;14;4013;I am satisfied with how I live my life.;4003;Neither agree or disagree;3
+4;14;4013;I am satisfied with how I live my life.;4004;Agree;4
+4;14;4013;I am satisfied with how I live my life.;4005;Strongly agree;5
+4;14;4014;Nothing can stop me from doing something that’s important to me.;4001;Strongly disagree;1
+4;14;4014;Nothing can stop me from doing something that’s important to me.;4002;Disagree;2
+4;14;4014;Nothing can stop me from doing something that’s important to me.;4003;Neither agree or disagree;3
+4;14;4014;Nothing can stop me from doing something that’s important to me.;4004;Agree;4
+4;14;4014;Nothing can stop me from doing something that’s important to me.;4005;Strongly agree;5
+4;14;4015;I believe that I am living life to the full right now.;4001;Strongly disagree;1
+4;14;4015;I believe that I am living life to the full right now.;4002;Disagree;2
+4;14;4015;I believe that I am living life to the full right now.;4003;Neither agree or disagree;3
+4;14;4015;I believe that I am living life to the full right now.;4004;Agree;4
+4;14;4015;I believe that I am living life to the full right now.;4005;Strongly agree;5
+4;14;4016;I make time for the things that I consider important.;4001;Strongly disagree;1
+4;14;4016;I make time for the things that I consider important.;4002;Disagree;2
+4;14;4016;I make time for the things that I consider important.;4003;Neither agree or disagree;3
+4;14;4016;I make time for the things that I consider important.;4004;Agree;4
+4;14;4016;I make time for the things that I consider important.;4005;Strongly agree;5
+4;14;4017;I feel that I am living a full life.;4001;Strongly disagree;1
+4;14;4017;I feel that I am living a full life.;4002;Disagree;2
+4;14;4017;I feel that I am living a full life.;4003;Neither agree or disagree;3
+4;14;4017;I feel that I am living a full life.;4004;Agree;4
+4;14;4017;I feel that I am living a full life.;4005;Strongly agree;5
+4;15;4018;1. Please estimate how old you will approximately become: ...;4006;40;40
+4;15;4018;1. Please estimate how old you will approximately become: ...;4007;45;45
+4;15;4018;1. Please estimate how old you will approximately become: ...;4008;50;50
+4;15;4018;1. Please estimate how old you will approximately become: ...;4009;55;55
+4;15;4018;1. Please estimate how old you will approximately become: ...;4010;60;60
+4;15;4018;1. Please estimate how old you will approximately become: ...;4011;65;65
+4;15;4018;1. Please estimate how old you will approximately become: ...;4012;70;70
+4;15;4018;1. Please estimate how old you will approximately become: ...;4013;75;75
+4;15;4018;1. Please estimate how old you will approximately become: ...;4014;80;80
+4;15;4018;1. Please estimate how old you will approximately become: ...;4015;85;85
+4;15;4018;1. Please estimate how old you will approximately become: ...;4016;90;90
+4;15;4018;1. Please estimate how old you will approximately become: ...;4017;95;95
+4;15;4018;1. Please estimate how old you will approximately become: ...;4018;100;100
+4;15;4018;1. Please estimate how old you will approximately become: ...;4019;105;105
+4;15;4018;1. Please estimate how old you will approximately become: ...;4020;110;110
+4;15;4019;2. Up to which age will you maintain your independence?;4006;40;40
+4;15;4019;2. Up to which age will you maintain your independence?;4007;45;45
+4;15;4019;2. Up to which age will you maintain your independence?;4008;50;50
+4;15;4019;2. Up to which age will you maintain your independence?;4009;55;55
+4;15;4019;2. Up to which age will you maintain your independence?;4010;60;60
+4;15;4019;2. Up to which age will you maintain your independence?;4011;65;65
+4;15;4019;2. Up to which age will you maintain your independence?;4012;70;70
+4;15;4019;2. Up to which age will you maintain your independence?;4013;75;75
+4;15;4019;2. Up to which age will you maintain your independence?;4014;80;80
+4;15;4019;2. Up to which age will you maintain your independence?;4015;85;85
+4;15;4019;2. Up to which age will you maintain your independence?;4016;90;90
+4;15;4019;2. Up to which age will you maintain your independence?;4017;95;95
+4;15;4019;2. Up to which age will you maintain your independence?;4018;100;100
+4;15;4019;2. Up to which age will you maintain your independence?;4019;105;105
+4;15;4019;2. Up to which age will you maintain your independence?;4020;110;110
+4;15;4020;3. Please assess up to which age you will feel healthy.;4006;40;40
+4;15;4020;3. Please assess up to which age you will feel healthy.;4007;45;45
+4;15;4020;3. Please assess up to which age you will feel healthy.;4008;50;50
+4;15;4020;3. Please assess up to which age you will feel healthy.;4009;55;55
+4;15;4020;3. Please assess up to which age you will feel healthy.;4010;60;60
+4;15;4020;3. Please assess up to which age you will feel healthy.;4011;65;65
+4;15;4020;3. Please assess up to which age you will feel healthy.;4012;70;70
+4;15;4020;3. Please assess up to which age you will feel healthy.;4013;75;75
+4;15;4020;3. Please assess up to which age you will feel healthy.;4014;80;80
+4;15;4020;3. Please assess up to which age you will feel healthy.;4015;85;85
+4;15;4020;3. Please assess up to which age you will feel healthy.;4016;90;90
+4;15;4020;3. Please assess up to which age you will feel healthy.;4017;95;95
+4;15;4020;3. Please assess up to which age you will feel healthy.;4018;100;100
+4;15;4020;3. Please assess up to which age you will feel healthy.;4019;105;105
+4;15;4020;3. Please assess up to which age you will feel healthy.;4020;110;110
+4;15;4021;4. From which age do you think you will be chronically sick?;4006;40;40
+4;15;4021;4. From which age do you think you will be chronically sick?;4007;45;45
+4;15;4021;4. From which age do you think you will be chronically sick?;4008;50;50
+4;15;4021;4. From which age do you think you will be chronically sick?;4009;55;55
+4;15;4021;4. From which age do you think you will be chronically sick?;4010;60;60
+4;15;4021;4. From which age do you think you will be chronically sick?;4011;65;65
+4;15;4021;4. From which age do you think you will be chronically sick?;4012;70;70
+4;15;4021;4. From which age do you think you will be chronically sick?;4013;75;75
+4;15;4021;4. From which age do you think you will be chronically sick?;4014;80;80
+4;15;4021;4. From which age do you think you will be chronically sick?;4015;85;85
+4;15;4021;4. From which age do you think you will be chronically sick?;4016;90;90
+4;15;4021;4. From which age do you think you will be chronically sick?;4017;95;95
+4;15;4021;4. From which age do you think you will be chronically sick?;4018;100;100
+4;15;4021;4. From which age do you think you will be chronically sick?;4019;105;105
+4;15;4021;4. From which age do you think you will be chronically sick?;4020;110;110
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4006;40;40
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4007;45;45
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4008;50;50
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4009;55;55
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4010;60;60
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4011;65;65
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4012;70;70
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4013;75;75
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4014;80;80
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4015;85;85
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4016;90;90
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4017;95;95
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4018;100;100
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4019;105;105
+4;15;4023;5. Up to which age do you think you will be able to maintain your current physical performance?;4020;110;110
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4006;40;40
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4007;45;45
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4008;50;50
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4009;55;55
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4010;60;60
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4011;65;65
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4012;70;70
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4013;75;75
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4014;80;80
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4015;85;85
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4016;90;90
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4017;95;95
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4018;100;100
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4019;105;105
+4;15;4024;6. Up to which age do you believe you will be able to maintain or even increase your fitness by training?;4020;110;110
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4006;40;40
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4007;45;45
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4008;50;50
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4009;55;55
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4010;60;60
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4011;65;65
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4012;70;70
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4013;75;75
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4014;80;80
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4015;85;85
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4016;90;90
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4017;95;95
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4018;100;100
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4019;105;105
+4;15;4025;7. Up to which age will you be able to incorporate additional physical activity into your daily life (e.g., bicycle tours, nordic walking, jogging, swimming, working out, hiking)?;4020;110;110
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4006;40;40
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4007;45;45
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4008;50;50
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4009;55;55
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4010;60;60
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4011;65;65
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4012;70;70
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4013;75;75
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4014;80;80
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4015;85;85
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4016;90;90
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4017;95;95
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4018;100;100
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4019;105;105
+4;15;4026;8. From which age onward do you think your motivation to do sports will decline?;4020;110;110
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4006;40;40
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4007;45;45
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4008;50;50
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4009;55;55
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4010;60;60
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4011;65;65
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4012;70;70
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4013;75;75
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4014;80;80
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4015;85;85
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4016;90;90
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4017;95;95
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4018;100;100
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4019;105;105
+4;15;4027;9. Please judge at what age your physical capabilities will have decreased by more than half (e.g., from which age onward will you only be able to jog, swim, or walk half of the current distance?).;4020;110;110
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4006;40;40
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4007;45;45
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4008;50;50
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4009;55;55
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4010;60;60
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4011;65;65
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4012;70;70
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4013;75;75
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4014;80;80
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4015;85;85
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4016;90;90
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4017;95;95
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4018;100;100
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4019;105;105
+4;15;4028;10. Up to which age will you be able to motivate yourself to train more intensively than at present in order to maintain or improve your fitness?;4020;110;110
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4006;40;40
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4007;45;45
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4008;50;50
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4009;55;55
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4010;60;60
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4011;65;65
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4012;70;70
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4013;75;75
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4014;80;80
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4015;85;85
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4016;90;90
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4017;95;95
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4018;100;100
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4019;105;105
+4;15;4029;11. Up to which age will you be able to practice sports such as jogging, cycling, nordic walking, or tennis? Please assess yourself even if you will not actually carry it out.;4020;110;110
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4006;40;40
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4007;45;45
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4008;50;50
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4009;55;55
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4010;60;60
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4011;65;65
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4012;70;70
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4013;75;75
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4014;80;80
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4015;85;85
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4016;90;90
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4017;95;95
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4018;100;100
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4019;105;105
+4;15;4030;12. Up to which age will you be able to practice sports such as yoga, pilates, relaxation, gymnastics? Please assess yourself even if you will not actually carry it out.;4020;110;110
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4006;40;40
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4007;45;45
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4008;50;50
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4009;55;55
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4010;60;60
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4011;65;65
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4012;70;70
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4013;75;75
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4014;80;80
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4015;85;85
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4016;90;90
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4017;95;95
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4018;100;100
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4019;105;105
+4;15;4031;13. Up to which age will you be able to practice sports such as strengthening muscles or weight training? Please assess yourself.;4020;110;110
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4006;40;40
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4007;45;45
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4008;50;50
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4009;55;55
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4010;60;60
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4011;65;65
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4012;70;70
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4013;75;75
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4014;80;80
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4015;85;85
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4016;90;90
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4017;95;95
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4018;100;100
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4019;105;105
+4;15;4033;14. Considering your present health, up to which maximum age could you imagine working?;4020;110;110
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4006;40;40
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4007;45;45
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4008;50;50
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4009;55;55
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4010;60;60
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4011;65;65
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4012;70;70
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4013;75;75
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4014;80;80
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4015;85;85
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4016;90;90
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4017;95;95
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4018;100;100
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4019;105;105
+4;15;4034;15. Considering your present health, up to which maximum age could you imagine starting a completely new job?;4020;110;110
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4006;40;40
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4007;45;45
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4008;50;50
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4009;55;55
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4010;60;60
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4011;65;65
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4012;70;70
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4013;75;75
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4014;80;80
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4015;85;85
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4016;90;90
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4017;95;95
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4018;100;100
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4019;105;105
+4;15;4035;16. From which age would cardiovascular complaints hinder you from working in a new occupational field?;4020;110;110
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4006;40;40
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4007;45;45
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4008;50;50
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4009;55;55
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4010;60;60
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4011;65;65
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4012;70;70
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4013;75;75
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4014;80;80
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4015;85;85
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4016;90;90
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4017;95;95
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4018;100;100
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4019;105;105
+4;15;4036;17. From which age would your mental fitness hinder you from working in a new occupational field?;4020;110;110
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4006;40;40
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4007;45;45
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4008;50;50
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4009;55;55
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4010;60;60
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4011;65;65
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4012;70;70
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4013;75;75
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4014;80;80
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4015;85;85
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4016;90;90
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4017;95;95
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4018;100;100
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4019;105;105
+4;15;4037;18. From which age would loss of motivation or a lack of energy hinder you from working in a new occupational field?;4020;110;110
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4006;40;40
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4007;45;45
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4008;50;50
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4009;55;55
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4010;60;60
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4011;65;65
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4012;70;70
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4013;75;75
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4014;80;80
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4015;85;85
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4016;90;90
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4017;95;95
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4018;100;100
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4019;105;105
+4;15;4039;19. How far does the overall planning of your goals reach into the future?;4020;110;110
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4006;40;40
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4007;45;45
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4008;50;50
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4009;55;55
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4010;60;60
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4011;65;65
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4012;70;70
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4013;75;75
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4014;80;80
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4015;85;85
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4016;90;90
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4017;95;95
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4018;100;100
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4019;105;105
+4;15;4040;"20. How far ahead do you generally plan activities? (e.g., visiting your family next month; going on a round-the-world trip in 5 years; learning a new language in the next 10 years)";4020;110;110
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4006;40;40
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4007;45;45
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4008;50;50
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4009;55;55
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4010;60;60
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4011;65;65
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4012;70;70
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4013;75;75
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4014;80;80
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4015;85;85
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4016;90;90
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4017;95;95
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4018;100;100
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4019;105;105
+4;15;4041;21. In view of your physical fitness, up to which age do you generally plan your future ahead?;4020;110;110
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4006;40;40
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4007;45;45
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4008;50;50
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4009;55;55
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4010;60;60
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4011;65;65
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4012;70;70
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4013;75;75
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4014;80;80
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4015;85;85
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4016;90;90
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4017;95;95
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4018;100;100
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4019;105;105
+4;15;4043;22. Up to which age do you feel physically and mentally able to learn new sports skills independently (e.g., dancing, sailing, mountaineering, diving)?;4020;110;110
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4006;40;40
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4007;45;45
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4008;50;50
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4009;55;55
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4010;60;60
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4011;65;65
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4012;70;70
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4013;75;75
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4014;80;80
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4015;85;85
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4016;90;90
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4017;95;95
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4018;100;100
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4019;105;105
+4;15;4044;23. Up to which age do you feel physically and mentally able to be creative in a new way (e.g., theater group, painting, digital photography, etc.)?;4020;110;110
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4006;40;40
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4007;45;45
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4008;50;50
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4009;55;55
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4010;60;60
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4011;65;65
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4012;70;70
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4013;75;75
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4014;80;80
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4015;85;85
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4016;90;90
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4017;95;95
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4018;100;100
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4019;105;105
+4;15;4045;24. Up to which age do you feel physically and mentally able to emigrate to an foreign country or to move to a new place independently?;4020;110;110
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4006;40;40
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4007;45;45
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4008;50;50
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4009;55;55
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4010;60;60
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4011;65;65
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4012;70;70
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4013;75;75
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4014;80;80
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4015;85;85
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4016;90;90
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4017;95;95
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4018;100;100
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4019;105;105
+4;15;4046;25. Up to which age do you feel physically and mentally able to learn something mentally new (e.g., learn a new language, extend your computer knowledge, learn new historical facts, participate in a book club, etc.)?;4020;110;110
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4006;40;40
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4007;45;45
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4008;50;50
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4009;55;55
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4010;60;60
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4011;65;65
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4012;70;70
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4013;75;75
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4014;80;80
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4015;85;85
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4016;90;90
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4017;95;95
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4018;100;100
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4019;105;105
+4;15;4047;26. Up to which age do you feel physically and mentally able to explore new countries and cultures actively and independently (e.g., city tours, expeditions, round trips)?;4020;110;110
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4006;40;40
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4007;45;45
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4008;50;50
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4009;55;55
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4010;60;60
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4011;65;65
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4012;70;70
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4013;75;75
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4014;80;80
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4015;85;85
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4016;90;90
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4017;95;95
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4018;100;100
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4019;105;105
+4;15;4048;27. Up to which age do you feel physically and mentally able to learn new skills independently (e.g., a new craft, juggling)?;4020;110;110
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4006;40;40
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4007;45;45
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4008;50;50
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4009;55;55
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4010;60;60
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4011;65;65
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4012;70;70
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4013;75;75
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4014;80;80
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4015;85;85
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4016;90;90
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4017;95;95
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4018;100;100
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4019;105;105
+4;15;4049;28. Up to which age do you feel physically and mentally able to come to grips with new technology independently?;4020;110;110
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4006;40;40
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4007;45;45
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4008;50;50
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4009;55;55
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4010;60;60
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4011;65;65
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4012;70;70
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4013;75;75
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4014;80;80
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4015;85;85
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4016;90;90
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4017;95;95
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4018;100;100
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4019;105;105
+4;15;4050;29. Up to which age do you feel physically and mentally able to try new things in your daily life independently (e.g., taking a new route, visiting a new mall)?;4020;110;110
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4006;40;40
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4007;45;45
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4008;50;50
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4009;55;55
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4010;60;60
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4011;65;65
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4012;70;70
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4013;75;75
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4014;80;80
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4015;85;85
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4016;90;90
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4017;95;95
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4018;100;100
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4019;105;105
+4;15;4051;30. Up to what age do you think you will be physically and mentally able to meet new people (e.g., by joining a sports group, club, or other interest groups)?;4020;110;110
+4;16;4053;1. Do you have the feeling that you don’t really care about what goes on around you?;4210;1 - Rarely or never;7
+4;16;4053;1. Do you have the feeling that you don’t really care about what goes on around you?;4201;2;6
+4;16;4053;1. Do you have the feeling that you don’t really care about what goes on around you?;4202;3;5
+4;16;4053;1. Do you have the feeling that you don’t really care about what goes on around you?;4203;4;4
+4;16;4053;1. Do you have the feeling that you don’t really care about what goes on around you?;4204;5;3
+4;16;4053;1. Do you have the feeling that you don’t really care about what goes on around you?;4205;6;2
+4;16;4053;1. Do you have the feeling that you don’t really care about what goes on around you?;4211;7 - Very often;1
+4;16;4054;2. Has it happened in the past that you were surprised by the behavior of people whom you thought you knew well?;4212;1 - Never happens;7
+4;16;4054;2. Has it happened in the past that you were surprised by the behavior of people whom you thought you knew well?;4201;2;6
+4;16;4054;2. Has it happened in the past that you were surprised by the behavior of people whom you thought you knew well?;4202;3;5
+4;16;4054;2. Has it happened in the past that you were surprised by the behavior of people whom you thought you knew well?;4203;4;4
+4;16;4054;2. Has it happened in the past that you were surprised by the behavior of people whom you thought you knew well?;4204;5;3
+4;16;4054;2. Has it happened in the past that you were surprised by the behavior of people whom you thought you knew well?;4205;6;2
+4;16;4054;2. Has it happened in the past that you were surprised by the behavior of people whom you thought you knew well?;4213;7 - Always happens;1
+4;16;4055;3. Has it happened that people whom you counted on disappointed you?;4212;1 - Never happens;7
+4;16;4055;3. Has it happened that people whom you counted on disappointed you?;4201;2;6
+4;16;4055;3. Has it happened that people whom you counted on disappointed you?;4202;3;5
+4;16;4055;3. Has it happened that people whom you counted on disappointed you?;4203;4;4
+4;16;4055;3. Has it happened that people whom you counted on disappointed you?;4204;5;3
+4;16;4055;3. Has it happened that people whom you counted on disappointed you?;4205;6;2
+4;16;4055;3. Has it happened that people whom you counted on disappointed you?;4213;7 - Always happens;1
+4;16;4056;4. Until now your life has had:;4214;1 - You have had no clear objectives or goals at all;1
+4;16;4056;4. Until now your life has had:;4201;2;2
+4;16;4056;4. Until now your life has had:;4202;3;3
+4;16;4056;4. Until now your life has had:;4203;4;4
+4;16;4056;4. Until now your life has had:;4204;5;5
+4;16;4056;4. Until now your life has had:;4205;6;6
+4;16;4056;4. Until now your life has had:;4215;7 - You had very clear objectives and goals;7
+4;16;4057;5. Do you have the feeling that you’re being treated unfairly?;4216;1 - Very often;1
+4;16;4057;5. Do you have the feeling that you’re being treated unfairly?;4201;2;2
+4;16;4057;5. Do you have the feeling that you’re being treated unfairly?;4202;3;3
+4;16;4057;5. Do you have the feeling that you’re being treated unfairly?;4203;4;4
+4;16;4057;5. Do you have the feeling that you’re being treated unfairly?;4204;5;5
+4;16;4057;5. Do you have the feeling that you’re being treated unfairly?;4205;6;6
+4;16;4057;5. Do you have the feeling that you’re being treated unfairly?;4217;7 - Rarely or never;7
+4;16;4058;6. Do you have the feeling that you are in an unfamiliar situation and don’t know what to do?;4216;1 - Very often;1
+4;16;4058;6. Do you have the feeling that you are in an unfamiliar situation and don’t know what to do?;4201;2;2
+4;16;4058;6. Do you have the feeling that you are in an unfamiliar situation and don’t know what to do?;4202;3;3
+4;16;4058;6. Do you have the feeling that you are in an unfamiliar situation and don’t know what to do?;4203;4;4
+4;16;4058;6. Do you have the feeling that you are in an unfamiliar situation and don’t know what to do?;4204;5;5
+4;16;4058;6. Do you have the feeling that you are in an unfamiliar situation and don’t know what to do?;4205;6;6
+4;16;4058;6. Do you have the feeling that you are in an unfamiliar situation and don’t know what to do?;4217;7 - Rarely or never;7
+4;16;4059;7. Doing the things you do every day is:;4218;1 - It gives me great joy and satisfaction;7
+4;16;4059;7. Doing the things you do every day is:;4201;2;6
+4;16;4059;7. Doing the things you do every day is:;4202;3;5
+4;16;4059;7. Doing the things you do every day is:;4203;4;4
+4;16;4059;7. Doing the things you do every day is:;4204;5;3
+4;16;4059;7. Doing the things you do every day is:;4205;6;2
+4;16;4059;7. Doing the things you do every day is:;4219;7 - It causes me pain and boredom;1
+4;16;4060;8. Do you have very mixed-up feelings and ideas?;4216;1 - Very often;1
+4;16;4060;8. Do you have very mixed-up feelings and ideas?;4201;2;2
+4;16;4060;8. Do you have very mixed-up feelings and ideas?;4202;3;3
+4;16;4060;8. Do you have very mixed-up feelings and ideas?;4203;4;4
+4;16;4060;8. Do you have very mixed-up feelings and ideas?;4204;5;5
+4;16;4060;8. Do you have very mixed-up feelings and ideas?;4205;6;6
+4;16;4060;8. Do you have very mixed-up feelings and ideas?;4217;7 - Rarely or never;7
+4;16;4061;9. Does it happen that you have feeling inside you would rather not feel?;4216;1 - Very often;1
+4;16;4061;9. Does it happen that you have feeling inside you would rather not feel?;4201;2;2
+4;16;4061;9. Does it happen that you have feeling inside you would rather not feel?;4202;3;3
+4;16;4061;9. Does it happen that you have feeling inside you would rather not feel?;4203;4;4
+4;16;4061;9. Does it happen that you have feeling inside you would rather not feel?;4204;5;5
+4;16;4061;9. Does it happen that you have feeling inside you would rather not feel?;4205;6;6
+4;16;4061;9. Does it happen that you have feeling inside you would rather not feel?;4217;7 - Rarely or never;7
+4;16;4062;10. Many people – even those with strong character – sometimes feel like sad losers in a certain situation. How often have you felt this way in the past?;4210;1 - Rarely or never;7
+4;16;4062;10. Many people – even those with strong character – sometimes feel like sad losers in a certain situation. How often have you felt this way in the past?;4201;2;6
+4;16;4062;10. Many people – even those with strong character – sometimes feel like sad losers in a certain situation. How often have you felt this way in the past?;4202;3;5
+4;16;4062;10. Many people – even those with strong character – sometimes feel like sad losers in a certain situation. How often have you felt this way in the past?;4203;4;4
+4;16;4062;10. Many people – even those with strong character – sometimes feel like sad losers in a certain situation. How often have you felt this way in the past?;4204;5;3
+4;16;4062;10. Many people – even those with strong character – sometimes feel like sad losers in a certain situation. How often have you felt this way in the past?;4205;6;2
+4;16;4062;10. Many people – even those with strong character – sometimes feel like sad losers in a certain situation. How often have you felt this way in the past?;4211;7 - Very often;1
+4;16;4063;11. When something has happened have you generally found that:;4220;1 - You gave more importance or less of what he really had;1
+4;16;4063;11. When something has happened have you generally found that:;4201;2;2
+4;16;4063;11. When something has happened have you generally found that:;4202;3;3
+4;16;4063;11. When something has happened have you generally found that:;4203;4;4
+4;16;4063;11. When something has happened have you generally found that:;4204;5;5
+4;16;4063;11. When something has happened have you generally found that:;4205;6;6
+4;16;4063;11. When something has happened have you generally found that:;4221;7 - You gave things just importance;7
+4;16;4064;12. How often do you have the feeling that there’s little meaning in the things you do in your daily life?;4216;1 - Very often;1
+4;16;4064;12. How often do you have the feeling that there’s little meaning in the things you do in your daily life?;4201;2;2
+4;16;4064;12. How often do you have the feeling that there’s little meaning in the things you do in your daily life?;4202;3;3
+4;16;4064;12. How often do you have the feeling that there’s little meaning in the things you do in your daily life?;4203;4;4
+4;16;4064;12. How often do you have the feeling that there’s little meaning in the things you do in your daily life?;4204;5;5
+4;16;4064;12. How often do you have the feeling that there’s little meaning in the things you do in your daily life?;4205;6;6
+4;16;4064;12. How often do you have the feeling that there’s little meaning in the things you do in your daily life?;4217;7 - Rarely or never;7
+4;16;4065;13. How often do you have the feeling that you’re not sure you can keep under control?;4216;1 - Very often;1
+4;16;4065;13. How often do you have the feeling that you’re not sure you can keep under control?;4201;2;2
+4;16;4065;13. How often do you have the feeling that you’re not sure you can keep under control?;4202;3;3
+4;16;4065;13. How often do you have the feeling that you’re not sure you can keep under control?;4203;4;4
+4;16;4065;13. How often do you have the feeling that you’re not sure you can keep under control?;4204;5;5
+4;16;4065;13. How often do you have the feeling that you’re not sure you can keep under control?;4205;6;6
+4;16;4065;13. How often do you have the feeling that you’re not sure you can keep under control?;4217;7 - Rarely or never;7
+4;17;4133;1. When I look at the story of my life, I am pleased with how things have turned out.;4100;Strongly disagree;1
+4;17;4133;1. When I look at the story of my life, I am pleased with how things have turned out.;4101;Moderately disagree;2
+4;17;4133;1. When I look at the story of my life, I am pleased with how things have turned out.;4102;Slightly disagree;3
+4;17;4133;1. When I look at the story of my life, I am pleased with how things have turned out.;4103;Slightly agree;4
+4;17;4133;1. When I look at the story of my life, I am pleased with how things have turned out.;4104;Moderately agree;5
+4;17;4133;1. When I look at the story of my life, I am pleased with how things have turned out.;4105;Strongly agree;6
+4;17;4121;2. I often feel lonely because I have few close friends with whom to share my concerns.;4100;Strongly disagree;6
+4;17;4121;2. I often feel lonely because I have few close friends with whom to share my concerns.;4101;Moderately disagree;5
+4;17;4121;2. I often feel lonely because I have few close friends with whom to share my concerns.;4102;Slightly disagree;4
+4;17;4121;2. I often feel lonely because I have few close friends with whom to share my concerns.;4103;Slightly agree;3
+4;17;4121;2. I often feel lonely because I have few close friends with whom to share my concerns.;4104;Moderately agree;2
+4;17;4121;2. I often feel lonely because I have few close friends with whom to share my concerns.;4105;Strongly agree;1
+4;17;4100;3. I am not afraid to voice my opinions, even when they are in opposition to the opinions of most people.;4100;Strongly disagree;6
+4;17;4100;3. I am not afraid to voice my opinions, even when they are in opposition to the opinions of most people.;4101;Moderately disagree;5
+4;17;4100;3. I am not afraid to voice my opinions, even when they are in opposition to the opinions of most people.;4102;Slightly disagree;4
+4;17;4100;3. I am not afraid to voice my opinions, even when they are in opposition to the opinions of most people.;4103;Slightly agree;3
+4;17;4100;3. I am not afraid to voice my opinions, even when they are in opposition to the opinions of most people.;4104;Moderately agree;2
+4;17;4100;3. I am not afraid to voice my opinions, even when they are in opposition to the opinions of most people.;4105;Strongly agree;1
+4;17;4106;4. I am concerned about how other people evaluate the choices I have made in my life.;4100;Strongly disagree;6
+4;17;4106;4. I am concerned about how other people evaluate the choices I have made in my life.;4101;Moderately disagree;5
+4;17;4106;4. I am concerned about how other people evaluate the choices I have made in my life.;4102;Slightly disagree;4
+4;17;4106;4. I am concerned about how other people evaluate the choices I have made in my life.;4103;Slightly agree;3
+4;17;4106;4. I am concerned about how other people evaluate the choices I have made in my life.;4104;Moderately agree;2
+4;17;4106;4. I am concerned about how other people evaluate the choices I have made in my life.;4105;Strongly agree;1
+4;17;4113;5. I have been able to build a home and a lifestyle for myself that is much to my liking.;4100;Strongly disagree;6
+4;17;4113;5. I have been able to build a home and a lifestyle for myself that is much to my liking.;4101;Moderately disagree;5
+4;17;4113;5. I have been able to build a home and a lifestyle for myself that is much to my liking.;4102;Slightly disagree;4
+4;17;4113;5. I have been able to build a home and a lifestyle for myself that is much to my liking.;4103;Slightly agree;3
+4;17;4113;5. I have been able to build a home and a lifestyle for myself that is much to my liking.;4104;Moderately agree;2
+4;17;4113;5. I have been able to build a home and a lifestyle for myself that is much to my liking.;4105;Strongly agree;1
+4;17;4130;6. I enjoy making plans for the future and working to make them a reality.;4100;Strongly disagree;1
+4;17;4130;6. I enjoy making plans for the future and working to make them a reality.;4101;Moderately disagree;2
+4;17;4130;6. I enjoy making plans for the future and working to make them a reality.;4102;Slightly disagree;3
+4;17;4130;6. I enjoy making plans for the future and working to make them a reality.;4103;Slightly agree;4
+4;17;4130;6. I enjoy making plans for the future and working to make them a reality.;4104;Moderately agree;5
+4;17;4130;6. I enjoy making plans for the future and working to make them a reality.;4105;Strongly agree;6
+4;17;4134;7. In general, I feel confident and positive about myself.;4100;Strongly disagree;1
+4;17;4134;7. In general, I feel confident and positive about myself.;4101;Moderately disagree;2
+4;17;4134;7. In general, I feel confident and positive about myself.;4102;Slightly disagree;3
+4;17;4134;7. In general, I feel confident and positive about myself.;4103;Slightly agree;4
+4;17;4134;7. In general, I feel confident and positive about myself.;4104;Moderately agree;5
+4;17;4134;7. In general, I feel confident and positive about myself.;4105;Strongly agree;6
+4;17;4122;8. I don't have many people who want to listen when I need to talk.;4100;Strongly disagree;6
+4;17;4122;8. I don't have many people who want to listen when I need to talk.;4101;Moderately disagree;5
+4;17;4122;8. I don't have many people who want to listen when I need to talk.;4102;Slightly disagree;4
+4;17;4122;8. I don't have many people who want to listen when I need to talk.;4103;Slightly agree;3
+4;17;4122;8. I don't have many people who want to listen when I need to talk.;4104;Moderately agree;2
+4;17;4122;8. I don't have many people who want to listen when I need to talk.;4105;Strongly agree;1
+4;17;4101;9. I tend to worry about what other people think of me.;4100;Strongly disagree;6
+4;17;4101;9. I tend to worry about what other people think of me.;4101;Moderately disagree;5
+4;17;4101;9. I tend to worry about what other people think of me.;4102;Slightly disagree;4
+4;17;4101;9. I tend to worry about what other people think of me.;4103;Slightly agree;3
+4;17;4101;9. I tend to worry about what other people think of me.;4104;Moderately agree;2
+4;17;4101;9. I tend to worry about what other people think of me.;4105;Strongly agree;1
+4;17;4107;10. I judge myself by what I think is important, not by the values of what others think is important.;4100;Strongly disagree;1
+4;17;4107;10. I judge myself by what I think is important, not by the values of what others think is important.;4101;Moderately disagree;2
+4;17;4107;10. I judge myself by what I think is important, not by the values of what others think is important.;4102;Slightly disagree;3
+4;17;4107;10. I judge myself by what I think is important, not by the values of what others think is important.;4103;Slightly agree;4
+4;17;4107;10. I judge myself by what I think is important, not by the values of what others think is important.;4104;Moderately agree;5
+4;17;4107;10. I judge myself by what I think is important, not by the values of what others think is important.;4105;Strongly agree;6
+4;17;4112;11. I have difficulty arranging my life in a way that is satisfying to me.;4100;Strongly disagree;6
+4;17;4112;11. I have difficulty arranging my life in a way that is satisfying to me.;4101;Moderately disagree;5
+4;17;4112;11. I have difficulty arranging my life in a way that is satisfying to me.;4102;Slightly disagree;4
+4;17;4112;11. I have difficulty arranging my life in a way that is satisfying to me.;4103;Slightly agree;3
+4;17;4112;11. I have difficulty arranging my life in a way that is satisfying to me.;4104;Moderately agree;2
+4;17;4112;11. I have difficulty arranging my life in a way that is satisfying to me.;4105;Strongly agree;1
+4;17;4131;12. I am an active person in carrying out the plans I set for myself.;4100;Strongly disagree;1
+4;17;4131;12. I am an active person in carrying out the plans I set for myself.;4101;Moderately disagree;2
+4;17;4131;12. I am an active person in carrying out the plans I set for myself.;4102;Slightly disagree;3
+4;17;4131;12. I am an active person in carrying out the plans I set for myself.;4103;Slightly agree;4
+4;17;4131;12. I am an active person in carrying out the plans I set for myself.;4104;Moderately agree;5
+4;17;4131;12. I am an active person in carrying out the plans I set for myself.;4105;Strongly agree;6
+4;17;4135;13. Given the opportunity, there are many things about myself that I would change.;4100;Strongly disagree;6
+4;17;4135;13. Given the opportunity, there are many things about myself that I would change.;4101;Moderately disagree;5
+4;17;4135;13. Given the opportunity, there are many things about myself that I would change.;4102;Slightly disagree;4
+4;17;4135;13. Given the opportunity, there are many things about myself that I would change.;4103;Slightly agree;3
+4;17;4135;13. Given the opportunity, there are many things about myself that I would change.;4104;Moderately agree;2
+4;17;4135;13. Given the opportunity, there are many things about myself that I would change.;4105;Strongly agree;1
+4;17;4123;14. I feel like I get a lot out of my friendships.;4100;Strongly disagree;1
+4;17;4123;14. I feel like I get a lot out of my friendships.;4101;Moderately disagree;2
+4;17;4123;14. I feel like I get a lot out of my friendships.;4102;Slightly disagree;3
+4;17;4123;14. I feel like I get a lot out of my friendships.;4103;Slightly agree;4
+4;17;4123;14. I feel like I get a lot out of my friendships.;4104;Moderately agree;5
+4;17;4123;14. I feel like I get a lot out of my friendships.;4105;Strongly agree;6
+4;17;4102;15. I tend to be influenced by people with strong opinions.;4100;Strongly disagree;6
+4;17;4102;15. I tend to be influenced by people with strong opinions.;4101;Moderately disagree;5
+4;17;4102;15. I tend to be influenced by people with strong opinions.;4102;Slightly disagree;4
+4;17;4102;15. I tend to be influenced by people with strong opinions.;4103;Slightly agree;3
+4;17;4102;15. I tend to be influenced by people with strong opinions.;4104;Moderately agree;2
+4;17;4102;15. I tend to be influenced by people with strong opinions.;4105;Strongly agree;1
+4;17;4108;16. In general, I feel I am in charge of the situation in which I live.;4100;Strongly disagree;1
+4;17;4108;16. In general, I feel I am in charge of the situation in which I live.;4101;Moderately disagree;2
+4;17;4108;16. In general, I feel I am in charge of the situation in which I live.;4102;Slightly disagree;3
+4;17;4108;16. In general, I feel I am in charge of the situation in which I live.;4103;Slightly agree;4
+4;17;4108;16. In general, I feel I am in charge of the situation in which I live.;4104;Moderately agree;5
+4;17;4108;16. In general, I feel I am in charge of the situation in which I live.;4105;Strongly agree;6
+4;17;4127;17. I feel good when I think of what I've done in the past and what I hope to do in the future.;4100;Strongly disagree;1
+4;17;4127;17. I feel good when I think of what I've done in the past and what I hope to do in the future.;4101;Moderately disagree;2
+4;17;4127;17. I feel good when I think of what I've done in the past and what I hope to do in the future.;4102;Slightly disagree;3
+4;17;4127;17. I feel good when I think of what I've done in the past and what I hope to do in the future.;4103;Slightly agree;4
+4;17;4127;17. I feel good when I think of what I've done in the past and what I hope to do in the future.;4104;Moderately agree;5
+4;17;4127;17. I feel good when I think of what I've done in the past and what I hope to do in the future.;4105;Strongly agree;6
+4;17;4132;18. My aims in life have been more a source of satisfaction than frustration to me.;4100;Strongly disagree;1
+4;17;4132;18. My aims in life have been more a source of satisfaction than frustration to me.;4101;Moderately disagree;2
+4;17;4132;18. My aims in life have been more a source of satisfaction than frustration to me.;4102;Slightly disagree;3
+4;17;4132;18. My aims in life have been more a source of satisfaction than frustration to me.;4103;Slightly agree;4
+4;17;4132;18. My aims in life have been more a source of satisfaction than frustration to me.;4104;Moderately agree;5
+4;17;4132;18. My aims in life have been more a source of satisfaction than frustration to me.;4105;Strongly agree;6
+4;17;4136;19. I like most aspects of my personality.;4100;Strongly disagree;1
+4;17;4136;19. I like most aspects of my personality.;4101;Moderately disagree;2
+4;17;4136;19. I like most aspects of my personality.;4102;Slightly disagree;3
+4;17;4136;19. I like most aspects of my personality.;4103;Slightly agree;4
+4;17;4136;19. I like most aspects of my personality.;4104;Moderately agree;5
+4;17;4136;19. I like most aspects of my personality.;4105;Strongly agree;6
+4;17;4124;20. It seems to me that most other people have more friends than I do.;4100;Strongly disagree;6
+4;17;4124;20. It seems to me that most other people have more friends than I do.;4101;Moderately disagree;5
+4;17;4124;20. It seems to me that most other people have more friends than I do.;4102;Slightly disagree;4
+4;17;4124;20. It seems to me that most other people have more friends than I do.;4103;Slightly agree;3
+4;17;4124;20. It seems to me that most other people have more friends than I do.;4104;Moderately agree;2
+4;17;4124;20. It seems to me that most other people have more friends than I do.;4105;Strongly agree;1
+4;17;4103;21. I have confidence in my opinions, even if they are contrary to the general consensus.;4100;Strongly disagree;1
+4;17;4103;21. I have confidence in my opinions, even if they are contrary to the general consensus.;4101;Moderately disagree;2
+4;17;4103;21. I have confidence in my opinions, even if they are contrary to the general consensus.;4102;Slightly disagree;3
+4;17;4103;21. I have confidence in my opinions, even if they are contrary to the general consensus.;4103;Slightly agree;4
+4;17;4103;21. I have confidence in my opinions, even if they are contrary to the general consensus.;4104;Moderately agree;5
+4;17;4103;21. I have confidence in my opinions, even if they are contrary to the general consensus.;4105;Strongly agree;6
+4;17;4109;22. The demands of everyday life often get me down.;4100;Strongly disagree;6
+4;17;4109;22. The demands of everyday life often get me down.;4101;Moderately disagree;5
+4;17;4109;22. The demands of everyday life often get me down.;4102;Slightly disagree;4
+4;17;4109;22. The demands of everyday life often get me down.;4103;Slightly agree;3
+4;17;4109;22. The demands of everyday life often get me down.;4104;Moderately agree;2
+4;17;4109;22. The demands of everyday life often get me down.;4105;Strongly agree;1
+4;17;4128;23. I have a sense of direction and purpose in life.;4100;Strongly disagree;1
+4;17;4128;23. I have a sense of direction and purpose in life.;4101;Moderately disagree;2
+4;17;4128;23. I have a sense of direction and purpose in life.;4102;Slightly disagree;3
+4;17;4128;23. I have a sense of direction and purpose in life.;4103;Slightly agree;4
+4;17;4128;23. I have a sense of direction and purpose in life.;4104;Moderately agree;5
+4;17;4128;23. I have a sense of direction and purpose in life.;4105;Strongly agree;6
+4;17;4114;24. In general, I feel that I continue to learn more about myself as time goes by.;4100;Strongly disagree;1
+4;17;4114;24. In general, I feel that I continue to learn more about myself as time goes by.;4101;Moderately disagree;2
+4;17;4114;24. In general, I feel that I continue to learn more about myself as time goes by.;4102;Slightly disagree;3
+4;17;4114;24. In general, I feel that I continue to learn more about myself as time goes by.;4103;Slightly agree;4
+4;17;4114;24. In general, I feel that I continue to learn more about myself as time goes by.;4104;Moderately agree;5
+4;17;4114;24. In general, I feel that I continue to learn more about myself as time goes by.;4105;Strongly agree;6
+4;17;4137;25. In many ways, I feel disappointed about my achievements in life.;4100;Strongly disagree;6
+4;17;4137;25. In many ways, I feel disappointed about my achievements in life.;4101;Moderately disagree;5
+4;17;4137;25. In many ways, I feel disappointed about my achievements in life.;4102;Slightly disagree;4
+4;17;4137;25. In many ways, I feel disappointed about my achievements in life.;4103;Slightly agree;3
+4;17;4137;25. In many ways, I feel disappointed about my achievements in life.;4104;Moderately agree;2
+4;17;4137;25. In many ways, I feel disappointed about my achievements in life.;4105;Strongly agree;1
+4;17;4125;26. I have not experienced many warm and trusting relationships with others.;4100;Strongly disagree;6
+4;17;4125;26. I have not experienced many warm and trusting relationships with others.;4101;Moderately disagree;5
+4;17;4125;26. I have not experienced many warm and trusting relationships with others.;4102;Slightly disagree;4
+4;17;4125;26. I have not experienced many warm and trusting relationships with others.;4103;Slightly agree;3
+4;17;4125;26. I have not experienced many warm and trusting relationships with others.;4104;Moderately agree;2
+4;17;4125;26. I have not experienced many warm and trusting relationships with others.;4105;Strongly agree;1
+4;17;4104;27. It's difficult for me to voice my own opinions on controversial matters.;4100;Strongly disagree;6
+4;17;4104;27. It's difficult for me to voice my own opinions on controversial matters.;4101;Moderately disagree;5
+4;17;4104;27. It's difficult for me to voice my own opinions on controversial matters.;4102;Slightly disagree;4
+4;17;4104;27. It's difficult for me to voice my own opinions on controversial matters.;4103;Slightly agree;3
+4;17;4104;27. It's difficult for me to voice my own opinions on controversial matters.;4104;Moderately agree;2
+4;17;4104;27. It's difficult for me to voice my own opinions on controversial matters.;4105;Strongly agree;1
+4;17;4110;28. I am quite good at managing the many responsibilities of my daily life.;4100;Strongly disagree;1
+4;17;4110;28. I am quite good at managing the many responsibilities of my daily life.;4101;Moderately disagree;2
+4;17;4110;28. I am quite good at managing the many responsibilities of my daily life.;4102;Slightly disagree;3
+4;17;4110;28. I am quite good at managing the many responsibilities of my daily life.;4103;Slightly agree;4
+4;17;4110;28. I am quite good at managing the many responsibilities of my daily life.;4104;Moderately agree;5
+4;17;4110;28. I am quite good at managing the many responsibilities of my daily life.;4105;Strongly agree;6
+4;17;4129;29. I don't have a good sense of what it is I'm trying to accomplish in life.;4100;Strongly disagree;6
+4;17;4129;29. I don't have a good sense of what it is I'm trying to accomplish in life.;4101;Moderately disagree;5
+4;17;4129;29. I don't have a good sense of what it is I'm trying to accomplish in life.;4102;Slightly disagree;4
+4;17;4129;29. I don't have a good sense of what it is I'm trying to accomplish in life.;4103;Slightly agree;3
+4;17;4129;29. I don't have a good sense of what it is I'm trying to accomplish in life.;4104;Moderately agree;2
+4;17;4129;29. I don't have a good sense of what it is I'm trying to accomplish in life.;4105;Strongly agree;1
+4;17;4119;30. I gave up trying to make big improvements or changes in my life a long time ago.;4100;Strongly disagree;6
+4;17;4119;30. I gave up trying to make big improvements or changes in my life a long time ago.;4101;Moderately disagree;5
+4;17;4119;30. I gave up trying to make big improvements or changes in my life a long time ago.;4102;Slightly disagree;4
+4;17;4119;30. I gave up trying to make big improvements or changes in my life a long time ago.;4103;Slightly agree;3
+4;17;4119;30. I gave up trying to make big improvements or changes in my life a long time ago.;4104;Moderately agree;2
+4;17;4119;30. I gave up trying to make big improvements or changes in my life a long time ago.;4105;Strongly agree;1
+4;17;4138;31. For the most part, I am proud of who I am and the life I lead.;4100;Strongly disagree;1
+4;17;4138;31. For the most part, I am proud of who I am and the life I lead.;4101;Moderately disagree;2
+4;17;4138;31. For the most part, I am proud of who I am and the life I lead.;4102;Slightly disagree;3
+4;17;4138;31. For the most part, I am proud of who I am and the life I lead.;4103;Slightly agree;4
+4;17;4138;31. For the most part, I am proud of who I am and the life I lead.;4104;Moderately agree;5
+4;17;4138;31. For the most part, I am proud of who I am and the life I lead.;4105;Strongly agree;6
+4;17;4126;32. I know that I can trust my friends, and they know they can trust me.;4100;Strongly disagree;1
+4;17;4126;32. I know that I can trust my friends, and they know they can trust me.;4101;Moderately disagree;2
+4;17;4126;32. I know that I can trust my friends, and they know they can trust me.;4102;Slightly disagree;3
+4;17;4126;32. I know that I can trust my friends, and they know they can trust me.;4103;Slightly agree;4
+4;17;4126;32. I know that I can trust my friends, and they know they can trust me.;4104;Moderately agree;5
+4;17;4126;32. I know that I can trust my friends, and they know they can trust me.;4105;Strongly agree;6
+4;17;4105;33. I often change my mind about decisions if my friends or family disagree.;4100;Strongly disagree;6
+4;17;4105;33. I often change my mind about decisions if my friends or family disagree.;4101;Moderately disagree;5
+4;17;4105;33. I often change my mind about decisions if my friends or family disagree.;4102;Slightly disagree;4
+4;17;4105;33. I often change my mind about decisions if my friends or family disagree.;4103;Slightly agree;3
+4;17;4105;33. I often change my mind about decisions if my friends or family disagree.;4104;Moderately agree;2
+4;17;4105;33. I often change my mind about decisions if my friends or family disagree.;4105;Strongly agree;1
+4;17;4115;34. I don't want to try new ways of doing things--my life is fine the way it is.;4100;Strongly disagree;6
+4;17;4115;34. I don't want to try new ways of doing things--my life is fine the way it is.;4101;Moderately disagree;5
+4;17;4115;34. I don't want to try new ways of doing things--my life is fine the way it is.;4102;Slightly disagree;4
+4;17;4115;34. I don't want to try new ways of doing things--my life is fine the way it is.;4103;Slightly agree;3
+4;17;4115;34. I don't want to try new ways of doing things--my life is fine the way it is.;4104;Moderately agree;2
+4;17;4115;34. I don't want to try new ways of doing things--my life is fine the way it is.;4105;Strongly agree;1
+4;17;4116;35. I think it is important to have new experiences that challenge how you think about yourself and the world.;4100;Strongly disagree;1
+4;17;4116;35. I think it is important to have new experiences that challenge how you think about yourself and the world.;4101;Moderately disagree;2
+4;17;4116;35. I think it is important to have new experiences that challenge how you think about yourself and the world.;4102;Slightly disagree;3
+4;17;4116;35. I think it is important to have new experiences that challenge how you think about yourself and the world.;4103;Slightly agree;4
+4;17;4116;35. I think it is important to have new experiences that challenge how you think about yourself and the world.;4104;Moderately agree;5
+4;17;4116;35. I think it is important to have new experiences that challenge how you think about yourself and the world.;4105;Strongly agree;6
+4;17;4117;36. When I think about it, I haven't really improved much as a person over the years.;4100;Strongly disagree;6
+4;17;4117;36. When I think about it, I haven't really improved much as a person over the years.;4101;Moderately disagree;5
+4;17;4117;36. When I think about it, I haven't really improved much as a person over the years.;4102;Slightly disagree;4
+4;17;4117;36. When I think about it, I haven't really improved much as a person over the years.;4103;Slightly agree;3
+4;17;4117;36. When I think about it, I haven't really improved much as a person over the years.;4104;Moderately agree;2
+4;17;4117;36. When I think about it, I haven't really improved much as a person over the years.;4105;Strongly agree;1
+4;17;4118;37. I have the sense that I have developed a lot as a person over time.;4100;Strongly disagree;1
+4;17;4118;37. I have the sense that I have developed a lot as a person over time.;4101;Moderately disagree;2
+4;17;4118;37. I have the sense that I have developed a lot as a person over time.;4102;Slightly disagree;3
+4;17;4118;37. I have the sense that I have developed a lot as a person over time.;4103;Slightly agree;4
+4;17;4118;37. I have the sense that I have developed a lot as a person over time.;4104;Moderately agree;5
+4;17;4118;37. I have the sense that I have developed a lot as a person over time.;4105;Strongly agree;6
+4;17;4120;38. For me, life has been a continuous process of study, change and growth;4100;Strongly disagree;1
+4;17;4120;38. For me, life has been a continuous process of study, change and growth;4101;Moderately disagree;2
+4;17;4120;38. For me, life has been a continuous process of study, change and growth;4102;Slightly disagree;3
+4;17;4120;38. For me, life has been a continuous process of study, change and growth;4103;Slightly agree;4
+4;17;4120;38. For me, life has been a continuous process of study, change and growth;4104;Moderately agree;5
+4;17;4120;38. For me, life has been a continuous process of study, change and growth;4105;Strongly agree;6
+4;17;4111;39. If I were unhappy with my living situation, I would take effective steps to change it.;4100;Strongly disagree;1
+4;17;4111;39. If I were unhappy with my living situation, I would take effective steps to change it.;4101;Moderately disagree;2
+4;17;4111;39. If I were unhappy with my living situation, I would take effective steps to change it.;4102;Slightly disagree;3
+4;17;4111;39. If I were unhappy with my living situation, I would take effective steps to change it.;4103;Slightly agree;4
+4;17;4111;39. If I were unhappy with my living situation, I would take effective steps to change it.;4104;Moderately agree;5
+4;17;4111;39. If I were unhappy with my living situation, I would take effective steps to change it.;4105;Strongly agree;6
+102;112;10901;1. Am the life of the party.;10898;Very Inaccurate;1
+102;112;10901;1. Am the life of the party.;10899;Moderately Inaccurate;2
+102;112;10901;1. Am the life of the party.;10900;Neither Accurate Nor Inaccurate;3
+102;112;10901;1. Am the life of the party.;10901;Moderately Accurate;4
+102;112;10901;1. Am the life of the party.;10902;Very Accurate;5
+102;112;10902;2. Feel little concern for others.;10898;Very Inaccurate;5
+102;112;10902;2. Feel little concern for others.;10899;Moderately Inaccurate;4
+102;112;10902;2. Feel little concern for others.;10900;Neither Accurate Nor Inaccurate;3
+102;112;10902;2. Feel little concern for others.;10901;Moderately Accurate;2
+102;112;10902;2. Feel little concern for others.;10902;Very Accurate;1
+102;112;10903;3. I am always prepared.;10898;Very Inaccurate;1
+102;112;10903;3. I am always prepared.;10899;Moderately Inaccurate;2
+102;112;10903;3. I am always prepared.;10900;Neither Accurate Nor Inaccurate;3
+102;112;10903;3. I am always prepared.;10901;Moderately Accurate;4
+102;112;10903;3. I am always prepared.;10902;Very Accurate;5
+102;112;10904;4. I get stressed easily.;10898;Very Inaccurate;5
+102;112;10904;4. I get stressed easily.;10899;Moderately Inaccurate;4
+102;112;10904;4. I get stressed easily.;10900;Neither Accurate Nor Inaccurate;3
+102;112;10904;4. I get stressed easily.;10901;Moderately Accurate;2
+102;112;10904;4. I get stressed easily.;10902;Very Accurate;1
+102;112;10905;5. I got a rich vocabulary.;10898;Very Inaccurate;1
+102;112;10905;5. I got a rich vocabulary.;10899;Moderately Inaccurate;2
+102;112;10905;5. I got a rich vocabulary.;10900;Neither Accurate Nor Inaccurate;3
+102;112;10905;5. I got a rich vocabulary.;10901;Moderately Accurate;4
+102;112;10905;5. I got a rich vocabulary.;10902;Very Accurate;5
+102;112;10906;6. I do not talk too much.;10898;Very Inaccurate;5
+102;112;10906;6. I do not talk too much.;10899;Moderately Inaccurate;4
+102;112;10906;6. I do not talk too much.;10900;Neither Accurate Nor Inaccurate;3
+102;112;10906;6. I do not talk too much.;10901;Moderately Accurate;2
+102;112;10906;6. I do not talk too much.;10902;Very Accurate;1
+102;112;10907;7. I am interested for the people.;10898;Very Inaccurate;1
+102;112;10907;7. I am interested for the people.;10899;Moderately Inaccurate;2
+102;112;10907;7. I am interested for the people.;10900;Neither Accurate Nor Inaccurate;3
+102;112;10907;7. I am interested for the people.;10901;Moderately Accurate;4
+102;112;10907;7. I am interested for the people.;10902;Very Accurate;5
+102;112;10908;8. I leave my belongings around.;10898;Very Inaccurate;5
+102;112;10908;8. I leave my belongings around.;10899;Moderately Inaccurate;4
+102;112;10908;8. I leave my belongings around.;10900;Neither Accurate Nor Inaccurate;3
+102;112;10908;8. I leave my belongings around.;10901;Moderately Accurate;2
+102;112;10908;8. I leave my belongings around.;10902;Very Accurate;1
+102;112;10909;9. I am relaxed most of the time.;10898;Very Inaccurate;1
+102;112;10909;9. I am relaxed most of the time.;10899;Moderately Inaccurate;2
+102;112;10909;9. I am relaxed most of the time.;10900;Neither Accurate Nor Inaccurate;3
+102;112;10909;9. I am relaxed most of the time.;10901;Moderately Accurate;4
+102;112;10909;9. I am relaxed most of the time.;10902;Very Accurate;5
+102;112;10910;10. I got difficulties understanding abstract things.;10898;Very Inaccurate;5
+102;112;10910;10. I got difficulties understanding abstract things.;10899;Moderately Inaccurate;4
+102;112;10910;10. I got difficulties understanding abstract things.;10900;Neither Accurate Nor Inaccurate;3
+102;112;10910;10. I got difficulties understanding abstract things.;10901;Moderately Accurate;2
+102;112;10910;10. I got difficulties understanding abstract things.;10902;Very Accurate;1
+102;113;10911;11. I am comfortable around people.;10898;Very Inaccurate;1
+102;113;10911;11. I am comfortable around people.;10899;Moderately Inaccurate;2
+102;113;10911;11. I am comfortable around people.;10900;Neither Accurate Nor Inaccurate;3
+102;113;10911;11. I am comfortable around people.;10901;Moderately Accurate;4
+102;113;10911;11. I am comfortable around people.;10902;Very Accurate;5
+102;113;10912;12. I insult the people.;10898;Very Inaccurate;5
+102;113;10912;12. I insult the people.;10899;Moderately Inaccurate;4
+102;113;10912;12. I insult the people.;10900;Neither Accurate Nor Inaccurate;3
+102;113;10912;12. I insult the people.;10901;Moderately Accurate;2
+102;113;10912;12. I insult the people.;10902;Very Accurate;1
+102;113;10913;13. I pay attention for the details.;10898;Very Inaccurate;1
+102;113;10913;13. I pay attention for the details.;10899;Moderately Inaccurate;2
+102;113;10913;13. I pay attention for the details.;10900;Neither Accurate Nor Inaccurate;3
+102;113;10913;13. I pay attention for the details.;10901;Moderately Accurate;4
+102;113;10913;13. I pay attention for the details.;10902;Very Accurate;5
+102;113;10914;14. I worry for things.;10898;Very Inaccurate;5
+102;113;10914;14. I worry for things.;10899;Moderately Inaccurate;4
+102;113;10914;14. I worry for things.;10900;Neither Accurate Nor Inaccurate;3
+102;113;10914;14. I worry for things.;10901;Moderately Accurate;2
+102;113;10914;14. I worry for things.;10902;Very Accurate;1
+102;113;10915;15. I got a good imagination.;10898;Very Inaccurate;1
+102;113;10915;15. I got a good imagination.;10899;Moderately Inaccurate;2
+102;113;10915;15. I got a good imagination.;10900;Neither Accurate Nor Inaccurate;3
+102;113;10915;15. I got a good imagination.;10901;Moderately Accurate;4
+102;113;10915;15. I got a good imagination.;10902;Very Accurate;5
+102;113;10916;16. I keep in a second place.;10898;Very Inaccurate;5
+102;113;10916;16. I keep in a second place.;10899;Moderately Inaccurate;4
+102;113;10916;16. I keep in a second place.;10900;Neither Accurate Nor Inaccurate;3
+102;113;10916;16. I keep in a second place.;10901;Moderately Accurate;2
+102;113;10916;16. I keep in a second place.;10902;Very Accurate;1
+102;113;10917;17. I sympathize with others’ feelings.;10898;Very Inaccurate;1
+102;113;10917;17. I sympathize with others’ feelings.;10899;Moderately Inaccurate;2
+102;113;10917;17. I sympathize with others’ feelings.;10900;Neither Accurate Nor Inaccurate;3
+102;113;10917;17. I sympathize with others’ feelings.;10901;Moderately Accurate;4
+102;113;10917;17. I sympathize with others’ feelings.;10902;Very Accurate;5
+102;113;10918;18. I tend to make a mess of things.;10898;Very Inaccurate;5
+102;113;10918;18. I tend to make a mess of things.;10899;Moderately Inaccurate;4
+102;113;10918;18. I tend to make a mess of things.;10900;Neither Accurate Nor Inaccurate;3
+102;113;10918;18. I tend to make a mess of things.;10901;Moderately Accurate;2
+102;113;10918;18. I tend to make a mess of things.;10902;Very Accurate;1
+102;113;10919;19. Rarely I feel sad.;10898;Very Inaccurate;1
+102;113;10919;19. Rarely I feel sad.;10899;Moderately Inaccurate;2
+102;113;10919;19. Rarely I feel sad.;10900;Neither Accurate Nor Inaccurate;3
+102;113;10919;19. Rarely I feel sad.;10901;Moderately Accurate;4
+102;113;10919;19. Rarely I feel sad.;10902;Very Accurate;5
+102;113;10920;20. I do not get interest on abstract ideas.;10898;Very Inaccurate;5
+102;113;10920;20. I do not get interest on abstract ideas.;10899;Moderately Inaccurate;4
+102;113;10920;20. I do not get interest on abstract ideas.;10900;Neither Accurate Nor Inaccurate;3
+102;113;10920;20. I do not get interest on abstract ideas.;10901;Moderately Accurate;2
+102;113;10920;20. I do not get interest on abstract ideas.;10902;Very Accurate;1
+102;114;10921;21. I am who starts the conversations.;10898;Very Inaccurate;1
+102;114;10921;21. I am who starts the conversations.;10899;Moderately Inaccurate;2
+102;114;10921;21. I am who starts the conversations.;10900;Neither Accurate Nor Inaccurate;3
+102;114;10921;21. I am who starts the conversations.;10901;Moderately Accurate;4
+102;114;10921;21. I am who starts the conversations.;10902;Very Accurate;5
+102;114;10922;22. I am not interested in the others’ problems.;10898;Very Inaccurate;5
+102;114;10922;22. I am not interested in the others’ problems.;10899;Moderately Inaccurate;4
+102;114;10922;22. I am not interested in the others’ problems.;10900;Neither Accurate Nor Inaccurate;3
+102;114;10922;22. I am not interested in the others’ problems.;10901;Moderately Accurate;2
+102;114;10922;22. I am not interested in the others’ problems.;10902;Very Accurate;1
+102;114;10923;23. I do my tasks immediately.;10898;Very Inaccurate;1
+102;114;10923;23. I do my tasks immediately.;10899;Moderately Inaccurate;2
+102;114;10923;23. I do my tasks immediately.;10900;Neither Accurate Nor Inaccurate;3
+102;114;10923;23. I do my tasks immediately.;10901;Moderately Accurate;4
+102;114;10923;23. I do my tasks immediately.;10902;Very Accurate;5
+102;114;10924;24. I get upset with ease.;10898;Very Inaccurate;5
+102;114;10924;24. I get upset with ease.;10899;Moderately Inaccurate;4
+102;114;10924;24. I get upset with ease.;10900;Neither Accurate Nor Inaccurate;3
+102;114;10924;24. I get upset with ease.;10901;Moderately Accurate;2
+102;114;10924;24. I get upset with ease.;10902;Very Accurate;1
+102;114;10925;25. I got excellent ideas.;10898;Very Inaccurate;1
+102;114;10925;25. I got excellent ideas.;10899;Moderately Inaccurate;2
+102;114;10925;25. I got excellent ideas.;10900;Neither Accurate Nor Inaccurate;3
+102;114;10925;25. I got excellent ideas.;10901;Moderately Accurate;4
+102;114;10925;25. I got excellent ideas.;10902;Very Accurate;5
+102;114;10926;26. I got little to say.;10898;Very Inaccurate;5
+102;114;10926;26. I got little to say.;10899;Moderately Inaccurate;4
+102;114;10926;26. I got little to say.;10900;Neither Accurate Nor Inaccurate;3
+102;114;10926;26. I got little to say.;10901;Moderately Accurate;2
+102;114;10926;26. I got little to say.;10902;Very Accurate;1
+102;114;10927;27. I got a soft heart.;10898;Very Inaccurate;1
+102;114;10927;27. I got a soft heart.;10899;Moderately Inaccurate;2
+102;114;10927;27. I got a soft heart.;10900;Neither Accurate Nor Inaccurate;3
+102;114;10927;27. I got a soft heart.;10901;Moderately Accurate;4
+102;114;10927;27. I got a soft heart.;10902;Very Accurate;5
+102;114;10928;28. I forget to return things to his place.;10898;Very Inaccurate;5
+102;114;10928;28. I forget to return things to his place.;10899;Moderately Inaccurate;4
+102;114;10928;28. I forget to return things to his place.;10900;Neither Accurate Nor Inaccurate;3
+102;114;10928;28. I forget to return things to his place.;10901;Moderately Accurate;2
+102;114;10928;28. I forget to return things to his place.;10902;Very Accurate;1
+102;114;10929;29. I get irritated easily.;10898;Very Inaccurate;5
+102;114;10929;29. I get irritated easily.;10899;Moderately Inaccurate;4
+102;114;10929;29. I get irritated easily.;10900;Neither Accurate Nor Inaccurate;3
+102;114;10929;29. I get irritated easily.;10901;Moderately Accurate;2
+102;114;10929;29. I get irritated easily.;10902;Very Accurate;1
+102;114;10930;30. I do not have a good imagination.;10898;Very Inaccurate;5
+102;114;10930;30. I do not have a good imagination.;10899;Moderately Inaccurate;4
+102;114;10930;30. I do not have a good imagination.;10900;Neither Accurate Nor Inaccurate;3
+102;114;10930;30. I do not have a good imagination.;10901;Moderately Accurate;2
+102;114;10930;30. I do not have a good imagination.;10902;Very Accurate;1
+102;115;10931;31. I talk with different persons at the parties.;10898;Very Inaccurate;1
+102;115;10931;31. I talk with different persons at the parties.;10899;Moderately Inaccurate;2
+102;115;10931;31. I talk with different persons at the parties.;10900;Neither Accurate Nor Inaccurate;3
+102;115;10931;31. I talk with different persons at the parties.;10901;Moderately Accurate;4
+102;115;10931;31. I talk with different persons at the parties.;10902;Very Accurate;5
+102;115;10932;32. I am not too interested in the others.;10898;Very Inaccurate;5
+102;115;10932;32. I am not too interested in the others.;10899;Moderately Inaccurate;4
+102;115;10932;32. I am not too interested in the others.;10900;Neither Accurate Nor Inaccurate;3
+102;115;10932;32. I am not too interested in the others.;10901;Moderately Accurate;2
+102;115;10932;32. I am not too interested in the others.;10902;Very Accurate;1
+102;115;10933;33. I like the order.;10898;Very Inaccurate;1
+102;115;10933;33. I like the order.;10899;Moderately Inaccurate;2
+102;115;10933;33. I like the order.;10900;Neither Accurate Nor Inaccurate;3
+102;115;10933;33. I like the order.;10901;Moderately Accurate;4
+102;115;10933;33. I like the order.;10902;Very Accurate;5
+102;115;10934;34. I got a lot of mood changes.;10898;Very Inaccurate;5
+102;115;10934;34. I got a lot of mood changes.;10899;Moderately Inaccurate;4
+102;115;10934;34. I got a lot of mood changes.;10900;Neither Accurate Nor Inaccurate;3
+102;115;10934;34. I got a lot of mood changes.;10901;Moderately Accurate;2
+102;115;10934;34. I got a lot of mood changes.;10902;Very Accurate;1
+102;115;10935;35. I understand things fast.;10898;Very Inaccurate;1
+102;115;10935;35. I understand things fast.;10899;Moderately Inaccurate;2
+102;115;10935;35. I understand things fast.;10900;Neither Accurate Nor Inaccurate;3
+102;115;10935;35. I understand things fast.;10901;Moderately Accurate;4
+102;115;10935;35. I understand things fast.;10902;Very Accurate;5
+102;115;10936;36. I don’t like to draw attention to myself.;10898;Very Inaccurate;5
+102;115;10936;36. I don’t like to draw attention to myself.;10899;Moderately Inaccurate;4
+102;115;10936;36. I don’t like to draw attention to myself.;10900;Neither Accurate Nor Inaccurate;3
+102;115;10936;36. I don’t like to draw attention to myself.;10901;Moderately Accurate;2
+102;115;10936;36. I don’t like to draw attention to myself.;10902;Very Accurate;1
+102;115;10937;37. I spend time in the others.;10898;Very Inaccurate;1
+102;115;10937;37. I spend time in the others.;10899;Moderately Inaccurate;2
+102;115;10937;37. I spend time in the others.;10900;Neither Accurate Nor Inaccurate;3
+102;115;10937;37. I spend time in the others.;10901;Moderately Accurate;4
+102;115;10937;37. I spend time in the others.;10902;Very Accurate;5
+102;115;10938;38. I fail my obligations.;10898;Very Inaccurate;5
+102;115;10938;38. I fail my obligations.;10899;Moderately Inaccurate;4
+102;115;10938;38. I fail my obligations.;10900;Neither Accurate Nor Inaccurate;3
+102;115;10938;38. I fail my obligations.;10901;Moderately Accurate;2
+102;115;10938;38. I fail my obligations.;10902;Very Accurate;1
+102;115;10939;39. I got frequent mood swings.;10898;Very Inaccurate;5
+102;115;10939;39. I got frequent mood swings.;10899;Moderately Inaccurate;4
+102;115;10939;39. I got frequent mood swings.;10900;Neither Accurate Nor Inaccurate;3
+102;115;10939;39. I got frequent mood swings.;10901;Moderately Accurate;2
+102;115;10939;39. I got frequent mood swings.;10902;Very Accurate;1
+102;115;10940;40. I use complex words and expressions.;10898;Very Inaccurate;1
+102;115;10940;40. I use complex words and expressions.;10899;Moderately Inaccurate;2
+102;115;10940;40. I use complex words and expressions.;10900;Neither Accurate Nor Inaccurate;3
+102;115;10940;40. I use complex words and expressions.;10901;Moderately Accurate;4
+102;115;10940;40. I use complex words and expressions.;10902;Very Accurate;5
+102;116;10941;41. I do not mind to be the center of attention.;10898;Very Inaccurate;1
+102;116;10941;41. I do not mind to be the center of attention.;10899;Moderately Inaccurate;2
+102;116;10941;41. I do not mind to be the center of attention.;10900;Neither Accurate Nor Inaccurate;3
+102;116;10941;41. I do not mind to be the center of attention.;10901;Moderately Accurate;4
+102;116;10941;41. I do not mind to be the center of attention.;10902;Very Accurate;5
+102;116;10942;42. I feel the others emotions.;10898;Very Inaccurate;1
+102;116;10942;42. I feel the others emotions.;10899;Moderately Inaccurate;2
+102;116;10942;42. I feel the others emotions.;10900;Neither Accurate Nor Inaccurate;3
+102;116;10942;42. I feel the others emotions.;10901;Moderately Accurate;4
+102;116;10942;42. I feel the others emotions.;10902;Very Accurate;5
+102;116;10943;43. I feel a schedule.;10898;Very Inaccurate;1
+102;116;10943;43. I feel a schedule.;10899;Moderately Inaccurate;2
+102;116;10943;43. I feel a schedule.;10900;Neither Accurate Nor Inaccurate;3
+102;116;10943;43. I feel a schedule.;10901;Moderately Accurate;4
+102;116;10943;43. I feel a schedule.;10902;Very Accurate;5
+102;116;10944;44. I get irritated easily.;10898;Very Inaccurate;5
+102;116;10944;44. I get irritated easily.;10899;Moderately Inaccurate;4
+102;116;10944;44. I get irritated easily.;10900;Neither Accurate Nor Inaccurate;3
+102;116;10944;44. I get irritated easily.;10901;Moderately Accurate;2
+102;116;10944;44. I get irritated easily.;10902;Very Accurate;1
+102;116;10945;45. I spend time pondering about things.;10898;Very Inaccurate;1
+102;116;10945;45. I spend time pondering about things.;10899;Moderately Inaccurate;2
+102;116;10945;45. I spend time pondering about things.;10900;Neither Accurate Nor Inaccurate;3
+102;116;10945;45. I spend time pondering about things.;10901;Moderately Accurate;4
+102;116;10945;45. I spend time pondering about things.;10902;Very Accurate;5
+102;116;10946;46. I am quiet while being with strangers.;10898;Very Inaccurate;5
+102;116;10946;46. I am quiet while being with strangers.;10899;Moderately Inaccurate;4
+102;116;10946;46. I am quiet while being with strangers.;10900;Neither Accurate Nor Inaccurate;3
+102;116;10946;46. I am quiet while being with strangers.;10901;Moderately Accurate;2
+102;116;10946;46. I am quiet while being with strangers.;10902;Very Accurate;1
+102;116;10947;47. I make people feel comfortable.;10898;Very Inaccurate;1
+102;116;10947;47. I make people feel comfortable.;10899;Moderately Inaccurate;2
+102;116;10947;47. I make people feel comfortable.;10900;Neither Accurate Nor Inaccurate;3
+102;116;10947;47. I make people feel comfortable.;10901;Moderately Accurate;4
+102;116;10947;47. I make people feel comfortable.;10902;Very Accurate;5
+102;116;10948;48. I am demanding in my work.;10898;Very Inaccurate;1
+102;116;10948;48. I am demanding in my work.;10899;Moderately Inaccurate;2
+102;116;10948;48. I am demanding in my work.;10900;Neither Accurate Nor Inaccurate;3
+102;116;10948;48. I am demanding in my work.;10901;Moderately Accurate;4
+102;116;10948;48. I am demanding in my work.;10902;Very Accurate;5
+102;116;10949;49. Often I feel sad.;10898;Very Inaccurate;5
+102;116;10949;49. Often I feel sad.;10899;Moderately Inaccurate;4
+102;116;10949;49. Often I feel sad.;10900;Neither Accurate Nor Inaccurate;3
+102;116;10949;49. Often I feel sad.;10901;Moderately Accurate;2
+102;116;10949;49. Often I feel sad.;10902;Very Accurate;1
+102;116;10950;50. I am full of ideas.;10898;Very Inaccurate;1
+102;116;10950;50. I am full of ideas.;10899;Moderately Inaccurate;2
+102;116;10950;50. I am full of ideas.;10900;Neither Accurate Nor Inaccurate;3
+102;116;10950;50. I am full of ideas.;10901;Moderately Accurate;4
+102;116;10950;50. I am full of ideas.;10902;Very Accurate;5
